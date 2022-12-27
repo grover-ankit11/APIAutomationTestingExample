@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Home Page" preserve-order="true" >
+    <parameter name="validJson" value="Payload1.json" />
+    <test  name="Home Page Tests" preserve-order="true">
+    <classes>
+        <class name="com.qa.application.testcases.APITest"/>
+    </classes>
+   </test>
+</suite>

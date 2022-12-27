@@ -1,0 +1,397 @@
+2022-12-26 17:27:01,032 - com.qa.application.testcases.AutomationExampleTest -INFO - Report initiated and got config data 
+2022-12-26 17:27:13,615 - com.qa.application.testcases.AutomationExampleTest -INFO - Browser Ready
+2022-12-26 17:27:13,694 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating Title of the Screen
+2022-12-26 17:27:13,738 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating login with valid username and invalid password
+2022-12-26 17:27:15,070 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating login with invalid username and valid password
+2022-12-26 17:27:15,683 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating login with valid username and password
+2022-12-26 17:27:18,146 - com.qa.application.testcases.AutomationExampleTest -INFO - Report created
+2022-12-26 17:50:04,248 - com.qa.application.testcases.AutomationExampleTest -INFO - Report initiated and got config data 
+2022-12-26 17:50:16,539 - com.qa.application.testcases.AutomationExampleTest -INFO - Browser Ready
+2022-12-26 17:50:16,736 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating Title of the Screen
+2022-12-26 17:50:17,073 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating login with valid username and invalid password
+2022-12-26 17:50:19,434 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating login with invalid username and valid password
+2022-12-26 17:50:20,371 - com.qa.application.testcases.AutomationExampleTest -INFO - Validating login with valid username and password
+2022-12-26 17:50:26,365 - com.qa.application.testcases.AutomationExampleTest -INFO - Report created
+2022-12-26 18:30:17,274 - com.qa.application.testcases.APITest -INFO - Report initiated and got config data
+2022-12-26 18:30:27,163 - com.qa.application.testcases.APITest -INFO - Browser Ready
+2022-12-26 18:30:27,991 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-26 20:12:33,192 - com.qa.application.testcases.APITest -INFO - Running non-null validations for campaign attributes belonging to  Partner ID: 1
+2022-12-26 20:12:33,220 - com.qa.application.testcases.APITest -INFO - Running non-null validations for campaign attributes belonging to  Partner ID: 2
+2022-12-26 20:12:33,223 - com.qa.application.testcases.APITest -INFO - Running non-null validations for campaign attributes belonging to  Partner ID: 3
+2022-12-26 20:13:49,255 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 1
+2022-12-26 20:13:49,269 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 2
+2022-12-26 20:13:49,274 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 3
+2022-12-26 20:16:36,716 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 1
+2022-12-26 20:16:36,738 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 2
+2022-12-26 20:16:36,747 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 3
+2022-12-26 20:17:25,710 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 1
+2022-12-26 20:17:25,723 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 2
+2022-12-26 20:17:25,725 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 3
+2022-12-26 20:18:17,714 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 1
+2022-12-26 20:18:17,729 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 2
+2022-12-26 20:18:17,732 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 3
+2022-12-26 20:20:32,051 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 1
+2022-12-26 20:20:32,069 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 2
+2022-12-26 20:20:32,072 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 3
+2022-12-26 20:21:45,548 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 1
+2022-12-26 20:21:45,562 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 2
+2022-12-26 20:21:45,575 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 3
+2022-12-26 20:23:43,514 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 1
+2022-12-26 20:23:43,529 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 2
+2022-12-26 20:23:43,532 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 3
+2022-12-26 20:24:23,946 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 1
+2022-12-26 20:24:23,978 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 2
+2022-12-26 20:24:23,982 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 3
+2022-12-26 20:38:51,831 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 1
+2022-12-26 20:38:51,854 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 2
+2022-12-26 20:38:51,860 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 3
+2022-12-26 20:40:46,883 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 1
+2022-12-26 20:40:46,906 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 2
+2022-12-26 20:40:46,910 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 3
+2022-12-26 20:44:32,012 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 1
+2022-12-26 20:44:32,042 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 2
+2022-12-26 20:44:32,047 - com.qa.application.testcases.APITest -INFO - Running data validations for campaign attributes belonging to  Partner ID: 3
+2022-12-26 20:44:32,268 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs for belonging to 1
+2022-12-26 20:44:32,273 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs for belonging to 2
+2022-12-26 20:44:32,278 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs for belonging to 3
+2022-12-26 20:44:32,578 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 1
+2022-12-26 20:44:32,599 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 2
+2022-12-26 20:44:32,603 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 3
+2022-12-26 20:47:03,587 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to  Partner ID: 1
+2022-12-26 20:47:03,662 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 1
+2022-12-26 20:47:03,665 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to  Partner ID: 2
+2022-12-26 20:47:03,666 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 2
+2022-12-26 20:47:03,671 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to  Partner ID: 3
+2022-12-26 20:47:03,672 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 3
+2022-12-26 20:47:03,691 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 1
+2022-12-26 20:47:03,693 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 2
+2022-12-26 20:47:03,695 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 3
+2022-12-26 20:47:03,732 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 1
+2022-12-26 20:47:03,733 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 2
+2022-12-26 20:47:03,739 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 3
+2022-12-26 20:48:10,929 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to  Partner ID: 1
+2022-12-26 20:48:10,959 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 1
+2022-12-26 20:48:10,961 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to  Partner ID: 2
+2022-12-26 20:48:10,964 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 2
+2022-12-26 20:48:10,970 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to  Partner ID: 3
+2022-12-26 20:48:10,971 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 3
+2022-12-26 20:48:10,998 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 1
+2022-12-26 20:48:11,008 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 2
+2022-12-26 20:48:11,010 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 3
+2022-12-26 20:48:11,351 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 1
+2022-12-26 20:48:11,354 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 2
+2022-12-26 20:48:11,357 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 3
+2022-12-26 21:21:23,145 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-26 21:21:23,161 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-26 21:21:24,092 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to  Partner ID: 1
+2022-12-26 21:21:24,123 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to  Partner ID: 2
+2022-12-26 21:21:24,128 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to  Partner ID: 3
+2022-12-26 21:21:24,146 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 1
+2022-12-26 21:21:24,153 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 2
+2022-12-26 21:21:24,158 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 3
+2022-12-26 21:21:24,176 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 1
+2022-12-26 21:21:24,179 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 2
+2022-12-26 21:21:24,184 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 3
+2022-12-26 21:21:24,196 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 1
+2022-12-26 21:21:24,199 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 2
+2022-12-26 21:21:24,204 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 3
+2022-12-26 21:21:25,748 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-26 21:31:55,459 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-26 21:31:55,472 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-26 21:31:55,939 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 1
+2022-12-26 21:31:55,961 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 2
+2022-12-26 21:31:55,966 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 3
+2022-12-26 21:31:55,982 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 1
+2022-12-26 21:31:55,987 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 2
+2022-12-26 21:31:55,991 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 3
+2022-12-26 21:31:56,000 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 1
+2022-12-26 21:31:56,003 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 2
+2022-12-26 21:31:56,007 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 3
+2022-12-26 21:31:56,021 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 1
+2022-12-26 21:31:56,024 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 2
+2022-12-26 21:31:56,027 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 3
+2022-12-26 21:31:56,745 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-26 21:42:03,360 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-26 21:42:03,372 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-26 21:42:03,771 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 1
+2022-12-26 21:42:03,805 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 2
+2022-12-26 21:42:03,810 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 3
+2022-12-26 21:42:03,834 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 1
+2022-12-26 21:42:03,839 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 2
+2022-12-26 21:42:03,846 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 3
+2022-12-26 21:42:03,861 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 1
+2022-12-26 21:42:03,869 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 2
+2022-12-26 21:42:03,873 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 3
+2022-12-26 21:42:03,886 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 1
+2022-12-26 21:42:03,893 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 2
+2022-12-26 21:42:03,896 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 3
+2022-12-26 21:42:04,793 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-26 21:45:41,625 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-26 21:45:41,636 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-26 21:45:42,926 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-26 21:49:25,686 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-26 21:49:25,700 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-26 21:49:27,136 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-26 21:51:10,971 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-26 21:51:10,983 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-26 21:51:12,392 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-26 21:51:59,034 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-26 21:51:59,050 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-26 21:52:01,579 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-26 21:54:55,453 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-26 21:54:55,462 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-26 21:54:55,868 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 2
+2022-12-26 21:54:55,874 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 3
+2022-12-26 21:54:55,894 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: null
+2022-12-26 21:54:55,900 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 2
+2022-12-26 21:54:55,905 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 3
+2022-12-26 21:54:55,917 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for null
+2022-12-26 21:54:55,919 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 2
+2022-12-26 21:54:55,923 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 3
+2022-12-26 21:54:55,935 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: null
+2022-12-26 21:54:55,938 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 2
+2022-12-26 21:54:55,942 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 3
+2022-12-26 21:54:56,540 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-26 21:59:44,223 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-26 21:59:44,233 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-26 21:59:44,628 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 2
+2022-12-26 21:59:44,636 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 3
+2022-12-26 21:59:44,656 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: null
+2022-12-26 21:59:44,660 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 2
+2022-12-26 21:59:44,665 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 3
+2022-12-26 21:59:44,674 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for null
+2022-12-26 21:59:44,677 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 2
+2022-12-26 21:59:44,683 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 3
+2022-12-26 21:59:44,691 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: null
+2022-12-26 21:59:44,693 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 2
+2022-12-26 21:59:44,699 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 3
+2022-12-26 21:59:45,372 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-26 22:00:14,177 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-26 22:00:14,191 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-26 22:00:14,643 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 1
+2022-12-26 22:00:14,670 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 2
+2022-12-26 22:00:14,674 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 3
+2022-12-26 22:00:14,692 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 1
+2022-12-26 22:00:14,701 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 2
+2022-12-26 22:00:14,706 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 3
+2022-12-26 22:00:14,719 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 1
+2022-12-26 22:00:14,724 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 2
+2022-12-26 22:00:14,728 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 3
+2022-12-26 22:00:14,742 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 1
+2022-12-26 22:00:14,745 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 2
+2022-12-26 22:00:14,751 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 3
+2022-12-26 22:00:15,443 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-26 22:02:54,355 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-26 22:02:54,370 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-26 22:02:54,777 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 1
+2022-12-26 22:02:54,808 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 2
+2022-12-26 22:02:54,816 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 3
+2022-12-26 22:02:54,841 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 1
+2022-12-26 22:02:54,868 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 2
+2022-12-26 22:02:54,874 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 3
+2022-12-26 22:02:54,888 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 1
+2022-12-26 22:02:54,891 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 2
+2022-12-26 22:02:54,894 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 3
+2022-12-26 22:02:54,906 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 1
+2022-12-26 22:02:54,915 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 2
+2022-12-26 22:02:54,920 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 3
+2022-12-26 22:02:55,619 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-26 22:05:55,912 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-26 22:05:55,922 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-26 22:05:56,293 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 1
+2022-12-26 22:05:56,326 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 2
+2022-12-26 22:05:56,333 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 3
+2022-12-26 22:05:56,361 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 1
+2022-12-26 22:05:56,409 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 2
+2022-12-26 22:05:56,419 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 3
+2022-12-26 22:05:56,444 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 1
+2022-12-26 22:05:56,452 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 2
+2022-12-26 22:05:56,457 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 3
+2022-12-26 22:05:56,473 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 1
+2022-12-26 22:05:56,480 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 2
+2022-12-26 22:05:56,490 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 3
+2022-12-26 22:05:57,323 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-26 22:06:36,749 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-26 22:06:36,760 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-26 22:06:37,259 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 2
+2022-12-26 22:06:37,268 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 3
+2022-12-26 22:06:37,286 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: null
+2022-12-26 22:06:37,294 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 2
+2022-12-26 22:06:37,303 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 3
+2022-12-26 22:06:37,320 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for null
+2022-12-26 22:06:37,324 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 2
+2022-12-26 22:06:37,328 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 3
+2022-12-26 22:06:37,342 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: null
+2022-12-26 22:06:37,351 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 2
+2022-12-26 22:06:37,357 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 3
+2022-12-26 22:06:38,204 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-26 22:15:07,677 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-26 22:15:07,686 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-26 22:15:08,106 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 2
+2022-12-26 22:15:08,114 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 3
+2022-12-26 22:15:08,799 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-26 22:15:55,750 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-26 22:15:55,763 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-26 22:15:56,140 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 1
+2022-12-26 22:15:56,167 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 2
+2022-12-26 22:15:56,172 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 3
+2022-12-26 22:15:56,189 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 1
+2022-12-26 22:15:56,210 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 2
+2022-12-26 22:15:56,216 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 3
+2022-12-26 22:15:56,225 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 1
+2022-12-26 22:15:56,230 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 2
+2022-12-26 22:15:56,234 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 3
+2022-12-26 22:15:56,988 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-26 22:16:54,597 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-26 22:16:54,609 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-26 22:16:55,019 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 1
+2022-12-26 22:16:55,062 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 2
+2022-12-26 22:16:55,070 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 3
+2022-12-26 22:16:55,788 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-26 22:27:54,360 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-26 22:27:54,374 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-26 22:27:54,835 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 1
+2022-12-26 22:27:54,869 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 2
+2022-12-26 22:27:54,875 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 3
+2022-12-26 22:27:54,896 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 1
+2022-12-26 22:27:54,903 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 2
+2022-12-26 22:27:54,909 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 3
+2022-12-26 22:27:54,926 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 1
+2022-12-26 22:27:54,929 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 2
+2022-12-26 22:27:54,954 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 3
+2022-12-26 22:27:54,991 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 1
+2022-12-26 22:27:55,001 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 2
+2022-12-26 22:27:55,008 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 3
+2022-12-26 22:27:55,885 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-26 22:36:57,702 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-26 22:36:57,711 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-26 22:36:58,520 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-26 22:38:14,131 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-26 22:38:14,143 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-26 22:38:14,916 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-26 23:09:50,162 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-26 23:09:50,169 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-26 23:09:50,950 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-26 23:12:10,627 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-26 23:12:10,636 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-26 23:12:11,796 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-27 00:12:36,693 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-27 00:12:36,729 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-27 00:12:38,471 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 1
+2022-12-27 00:12:38,538 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 2
+2022-12-27 00:12:38,562 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 3
+2022-12-27 00:12:38,597 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 1
+2022-12-27 00:12:38,612 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 2
+2022-12-27 00:12:38,617 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 3
+2022-12-27 00:12:38,641 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 1
+2022-12-27 00:12:38,654 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 2
+2022-12-27 00:12:38,664 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 3
+2022-12-27 00:12:38,707 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 1
+2022-12-27 00:12:38,717 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 2
+2022-12-27 00:12:38,737 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 3
+2022-12-27 00:12:40,326 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-27 00:13:04,769 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-27 00:13:04,781 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-27 00:13:05,378 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 1
+2022-12-27 00:13:05,410 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 1
+2022-12-27 00:13:05,424 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 3
+2022-12-27 00:13:05,455 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 1
+2022-12-27 00:13:05,461 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 1
+2022-12-27 00:13:05,465 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 3
+2022-12-27 00:13:05,485 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 1
+2022-12-27 00:13:05,491 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 1
+2022-12-27 00:13:05,533 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 3
+2022-12-27 00:13:05,607 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 1
+2022-12-27 00:13:05,627 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 1
+2022-12-27 00:13:05,630 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 3
+2022-12-27 00:13:06,538 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-27 00:13:45,460 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-27 00:13:45,474 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-27 00:13:46,030 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 1
+2022-12-27 00:13:46,082 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 2
+2022-12-27 00:13:46,098 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 3
+2022-12-27 00:13:46,147 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 1
+2022-12-27 00:13:46,162 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 2
+2022-12-27 00:13:46,167 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 3
+2022-12-27 00:13:46,191 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 1
+2022-12-27 00:13:46,195 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 2
+2022-12-27 00:13:46,200 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 3
+2022-12-27 00:13:46,215 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 1
+2022-12-27 00:13:46,221 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 2
+2022-12-27 00:13:46,229 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 3
+2022-12-27 00:13:47,196 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-27 00:14:07,778 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-27 00:14:07,793 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-27 00:14:08,298 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 1
+2022-12-27 00:14:08,333 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 2
+2022-12-27 00:14:08,339 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 3
+2022-12-27 00:14:08,366 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 1
+2022-12-27 00:14:08,372 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 2
+2022-12-27 00:14:08,378 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 3
+2022-12-27 00:14:08,405 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 1
+2022-12-27 00:14:08,409 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 2
+2022-12-27 00:14:08,426 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 3
+2022-12-27 00:14:08,446 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 1
+2022-12-27 00:14:08,455 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 2
+2022-12-27 00:14:08,499 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 3
+2022-12-27 00:14:09,605 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-27 00:14:34,547 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-27 00:14:34,558 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-27 00:14:35,039 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 1
+2022-12-27 00:14:35,075 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 2
+2022-12-27 00:14:35,081 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 3
+2022-12-27 00:14:35,106 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 1
+2022-12-27 00:14:35,112 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 2
+2022-12-27 00:14:35,116 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 3
+2022-12-27 00:14:35,132 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 1
+2022-12-27 00:14:35,138 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 2
+2022-12-27 00:14:35,142 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 3
+2022-12-27 00:14:35,162 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 1
+2022-12-27 00:14:35,171 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 2
+2022-12-27 00:14:35,176 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 3
+2022-12-27 00:14:36,121 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-27 00:24:23,493 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-27 00:24:23,508 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-27 00:24:24,182 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 1
+2022-12-27 00:24:24,222 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 2
+2022-12-27 00:24:24,230 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 3
+2022-12-27 00:24:24,256 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 1
+2022-12-27 00:24:24,262 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 2
+2022-12-27 00:24:24,270 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 3
+2022-12-27 00:24:24,293 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 1
+2022-12-27 00:24:24,304 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 2
+2022-12-27 00:24:24,313 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 3
+2022-12-27 00:24:24,344 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 1
+2022-12-27 00:24:24,351 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 2
+2022-12-27 00:24:24,359 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 3
+2022-12-27 00:24:25,529 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-27 00:25:13,916 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-27 00:25:13,927 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-27 00:25:14,430 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 1
+2022-12-27 00:25:14,503 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 2
+2022-12-27 00:25:14,523 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 3
+2022-12-27 00:25:14,561 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 1
+2022-12-27 00:25:14,571 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 2
+2022-12-27 00:25:14,583 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 3
+2022-12-27 00:25:14,604 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 1
+2022-12-27 00:25:14,607 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 2
+2022-12-27 00:25:14,612 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 3
+2022-12-27 00:25:14,630 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 1
+2022-12-27 00:25:14,637 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 2
+2022-12-27 00:25:14,642 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 3
+2022-12-27 00:25:15,508 - com.qa.application.testcases.APITest -INFO - Report created
+2022-12-27 00:26:27,747 - com.qa.application.testcases.APITest -INFO - Report initiated
+2022-12-27 00:26:27,757 - com.qa.application.testcases.APITest -INFO - Test ready to execute
+2022-12-27 00:26:28,314 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 1
+2022-12-27 00:26:28,355 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 2
+2022-12-27 00:26:28,363 - com.qa.application.testcases.APITest -INFO - Running data validations for Partner attributes belonging to Partner ID: 3
+2022-12-27 00:26:28,389 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 1
+2022-12-27 00:26:28,403 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 2
+2022-12-27 00:26:28,406 - com.qa.application.testcases.APITest -INFO - Running data validations for campaigns attributes belonging to  Partner ID: 3
+2022-12-27 00:26:28,430 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 1
+2022-12-27 00:26:28,433 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 2
+2022-12-27 00:26:28,444 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Partner IDs for 3
+2022-12-27 00:26:28,482 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 1
+2022-12-27 00:26:28,488 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 2
+2022-12-27 00:26:28,492 - com.qa.application.testcases.APITest -INFO - Running validation for duplicate Campaign IDs belonging to Partner ID: 3
+2022-12-27 00:26:29,309 - com.qa.application.testcases.APITest -INFO - Report created
